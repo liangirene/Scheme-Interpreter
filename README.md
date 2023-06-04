@@ -2,11 +2,11 @@
 
 This project aims to develop a Scheme interpreter and its read-eval-print loop. Scheme is a dialect of the Lisp programming language known for its simplicity and expressive power. The interpreter enables users to write and execute Scheme code, providing a platform for exploring and experimenting with Scheme programming.
 
-Throughout the development process, I delved into the intricacies and challenges of programming language design, carefully considering the characteristics of the Scheme subset. I made design choices that prioritize compatibility within the defined boundaries of the subset. Although there might be slight variations in behavior compared to other implementations, my interpreter remains faithful to the specified subset.
+Throughout the development process, I delved into the intricacies of programming language design, carefully considering the characteristics of the Scheme subset. I made design choices that prioritize compatibility within the defined boundaries of the subset. Although there might be slight variations in behavior compared to other implementations, my interpreter remains faithful to the specified subset.
 
 In addition to building the interpreter, I also wrote small programs in Scheme. This exercise revealed the simplicity and power of the language, while highlighting the transferability of programming concepts across different languages, including Python.
 
-By undertaking this project, I deepened my understanding of programming language concepts and honed my skills in interpreter development. It provided me with practical experience in working with Scheme, enhancing my ability to work with diverse programming languages. This project served as a valuable exploration of language interpretation and functional programming principles.
+This project served as a valuable exploration of language interpretation and functional programming principles.
 
 
 ## Features
